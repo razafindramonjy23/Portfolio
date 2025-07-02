@@ -273,13 +273,13 @@ const Portfolio = () => {
                             animate={{ y: 0, opacity: 1 }}
                             className="flex justify-center space-x-6 stagger-4"
                         >
-                            <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:scale-125 animate-float">
+                            <a href="https://github.com/razafindramonjy23" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:scale-125 animate-float">
                                 <Github className="w-6 h-6" />
                             </a>
-                            <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:scale-125 animate-float">
+                            <a href="https://www.linkedin.com/in/fanomezantsoa-tahina-razafindramonjy-890517260/" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:scale-125 animate-float">
                                 <Linkedin className="w-6 h-6" />
                             </a>
-                            <a href="#" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:scale-125 animate-float">
+                            <a href="razafindramonjytahina@gmail.com" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors hover:scale-125 animate-float">
                                 <Mail className="w-6 h-6" />
                             </a>
                         </MotionDiv>
