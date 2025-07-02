@@ -243,7 +243,7 @@ const Portfolio = () => {
                             className="stagger-2"
                         >
                             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-                                Développeur Full-Stack passionné par la création d'expériences web modernes et performantes
+                                Développeur Full-Stack junior passionné par la création d'expériences web modernes et performantes
                             </p>
                         </MotionDiv>
 
